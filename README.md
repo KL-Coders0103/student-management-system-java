@@ -32,6 +32,7 @@ CREATE TABLE students (
     course VARCHAR(50),
     age INT
 );
+```
 
 How to Run
 - Clone the repository
@@ -39,6 +40,8 @@ How to Run
 - Add MySQL Connector/J to build path
 - Update DB credentials in DBConnection.java
 - Run MainApp.java
+
+---
 
 Author
 Lovesh Bodhani
